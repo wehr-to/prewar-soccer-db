@@ -25,7 +25,6 @@ This project is both:
 - **Bookmarks**
   - Favorite sets for quick access.
 - **Security**
-  - Secrets stored in 1Password (not `.env` in repo).
   - CSRF protection, input validation, and session hardening.
   - Documented AppSec checklist.
 
