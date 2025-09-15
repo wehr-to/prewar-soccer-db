@@ -1,4 +1,5 @@
 # prewar-soccer-db
+
 - A prototyped database and interactive site to view prewar soccer card information and pictures, with the intent to consolidate scattered websites and create a central source of historical information for collectors of prewar soccer cards. 
 
 # Pre-War Soccer Card Database
@@ -12,9 +13,9 @@ This project is both:
 
 ## Features (MVP → Roadmap)
 - **Search**
-  - Search by player → view all cards across years and sets.
-  - Search by year → list all sets produced that year.
-  - Search by producer → browse sets by manufacturer (Ogden’s, Panini, Gallaher, etc.).
+  - Search by player, view all cards across years and sets.
+  - Search by year, list all sets produced that year.
+  - Search by producer, browse sets by manufacturer (Ogden’s, Panini, Gallaher, etc.).
 - **Set Detail Pages**
   - Full checklist view.
   - Card-level details: player, team, photo, pop report.
