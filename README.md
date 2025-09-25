@@ -63,7 +63,6 @@ This project is both:
 
 ## Repo Structure
 ~~~
-```plaintext
 prewar-soccer-db/
 ├── README.md
 ├── requirements.txt
