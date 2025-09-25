@@ -33,10 +33,10 @@ This project is both:
 
 **Backend**
 - [Python 3.x](https://www.python.org/)  
-- [Flask](https://flask.palletsprojects.com/) — web framework  
-- [SQLAlchemy](https://www.sqlalchemy.org/) — ORM for database models  
-- [Alembic](https://alembic.sqlalchemy.org/) — migrations  
-- [bcrypt](https://pypi.org/project/bcrypt/) — password hashing  
+- [Flask](https://flask.palletsprojects.com/) / web framework  
+- [SQLAlchemy](https://www.sqlalchemy.org/) / ORM for database models  
+- [Alembic](https://alembic.sqlalchemy.org/) / migrations  
+- [bcrypt](https://pypi.org/project/bcrypt/) / password hashing  
 - [python-dotenv](https://pypi.org/project/python-dotenv/) (optional if not using 1Password CLI)
 
 **Frontend**
