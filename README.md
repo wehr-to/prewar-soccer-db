@@ -1,13 +1,7 @@
 # prewar-soccer-db
-
 - A prototyped database and interactive site to view prewar soccer card information and pictures, with the intent to consolidate scattered websites and create a central source of historical information for collectors of prewar soccer cards. 
 
-# Pre-War Soccer Card Database
-
-A full-stack Python application for **pre-war and vintage soccer card collecting**.  
-Collectors can search by player, year, or producer, view set checklists, bookmark sets, and track owned cards with notes, photos, and population report data.  
-
-This project is both:
+### This project is both:
 - A **learning tool** (computer science + Python development).  
 - An **AppSec portfolio piece** (secure coding, authentication, CSRF/XSS prevention, secrets management).  
 
