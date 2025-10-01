@@ -34,8 +34,8 @@
 - [python-dotenv](https://pypi.org/project/python-dotenv/) (optional if not using 1Password CLI)
 
 **Frontend**
-- [Jinja2](https://jinja.palletsprojects.com/) — template engine  
-- [Bootstrap 5](https://getbootstrap.com/) — responsive UI components  
+- [Jinja2](https://jinja.palletsprojects.com/) / template engine  
+- [Bootstrap 5](https://getbootstrap.com/) / responsive UI components  
 - Vanilla JS for small interactions (filters, search autocomplete)  
 
 **Database**
@@ -48,7 +48,7 @@
 - CSRF protection (Flask-WTF)  
 
 **Testing**
-- [pytest](https://docs.pytest.org/) — unit + integration tests  
+- [pytest](https://docs.pytest.org/) = unit + integration tests  
 
 **Deployment (future roadmap)**
 - [Render](https://render.com/) or [Heroku](https://www.heroku.com/) for hosting  
