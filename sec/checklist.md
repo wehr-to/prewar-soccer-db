@@ -1,7 +1,6 @@
 # AppSec Basics Checklist
 
 ## Secrets & Config
-- [x] All secrets stored in `.env` (not committed).
 - [x] `.gitignore` includes `.env` and `*.db`.
 - [ ] Rotate keys periodically.
 
