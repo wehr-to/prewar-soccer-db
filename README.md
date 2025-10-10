@@ -81,4 +81,4 @@ prewar-soccer-db/
 ~~~
 ## Future improvements:
 - Add modern sets
-
+- Include pop counts for higher end cards
