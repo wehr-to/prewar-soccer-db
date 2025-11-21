@@ -5,7 +5,7 @@
 - A **learning tool** (computer science + Python development).  
 - An **AppSec portfolio piece** (secure coding, authentication, CSRF/XSS prevention, secrets management).  
 
-## Features (MVP to Roadmap)
+## Features
 - **Search**
   - Search by player, view all cards across years and sets.
   - Search by year, list all sets produced that year.
